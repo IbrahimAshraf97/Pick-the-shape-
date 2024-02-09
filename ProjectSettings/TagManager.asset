@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SelectedShape
+  - Cube
+  - Sphere
+  - Cylinder
+  - music
+  - Banana
+  - Carrot
+  - Green Apple
+  - Red Apple
+  - Pear
+  - Bus
+  - Car
+  - Tank
+  - Truck
+  - Van
+  - Barrel
+  - Barrier A
+  - Barrier B
+  - Crate
+  - Rock
+  - Tree
+  - Fish
+  - Pizza
+  - Cookie
+  - Sandwich
+  - Steak
+  - White Doe
+  - Red Doe
+  - Fox
+  - Red Moose
+  - Yellow Moose
+  - Yellow Stag
+  - Red Stag
+  - Chick
+  - Brown Chicken
+  - White Chicken
+  - Brown Cow
+  - White Cow
+  - Black Horse
+  - Brown Horse
+  - Rooster
+  - ShapeOneSpawnPos
+  - ShapeTwoSpawnPos
+  - ShapeThreeSpawnPos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
